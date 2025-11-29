@@ -7,7 +7,10 @@
 
 <p align="center" style="margin-top: 0; margin-bottom: 50px;">
   <a href="https://github.com/666OS/ClashMac/releases/latest">
-    <img src="https://img.shields.io/github/v/release/666OS/ClashMac?style=flat-square&color=green" alt="Latest Release">
+    <img src="https://img.shields.io/github/v/release/666OS/ClashMac?style=flat-square&color=blue" alt="Latest Release">
+  </a>
+  <a href="https://github.com/666OS/ClashMac/releases">
+    <img src="https://img.shields.io/github/downloads/666OS/ClashMac/total?style=flat-square&color=green" alt="Downloads">
   </a>
 </p>
 
@@ -24,7 +27,7 @@
 - **可视化面板** - 流量统计、连接数、内存使用
 - **Web Dashboard** - 集成控制面板访问
 
-## 下载安装
+## 下载
 
 在 [Releases 页面](https://github.com/666OS/ClashMac/releases/latest) 下载最新版本：
 
