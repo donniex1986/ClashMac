@@ -39,16 +39,24 @@ Thank you for your understanding and support! For more details, please refer to 
 
 ## Features
 
-- **Native Application** - Built with SwiftUI, seamlessly integrated with the system
-- **Lightweight & Efficient** - Menu bar app with minimal resource usage
-- **Network Takeover** - One-click enable/disable system proxy & enhanced mode
-- **Privileged Helper** - Password-free management of system proxy and kernel
-- **Real-time Traffic Monitoring** - SSE push with millisecond-level updates
-- **Visualization Panel** - Traffic statistics, connections count, memory usage
-- **Web Dashboard** - Integrated control panel access
-- **In-App Updates** - Auto update functionality
-- **Subscription Management** - Auto-update subscription sources
-- **Configuration Switching** - Multiple config files support
+- **Native Application**: Built with SwiftUI, seamlessly integrated with macOS
+- **Lightweight & Efficient**: Menu bar app with minimal resource usage
+- **Dual Proxy Modes**: System Proxy (HTTP/SOCKS5) + Enhanced Mode (TUN), can be enabled independently or simultaneously
+- **Control Center**: Integrated Zashboard on macOS 13+, with Overview, Proxies, Connections, Rules, Logs modules
+- **Password-Free Operation**: One-click privileged helper installation, no password required for system proxy and kernel management
+- **Local Configurations**: Import local YAML/YML config files, auto-switch and apply
+- **Remote Subscriptions**: Remote config import with auto-update, smart naming, and URL validation
+- **Real-Time Statistics**: Menu bar displays live upload/download speeds, active connections, memory usage
+- **Smart Configuration**: Auto-completion for DNS, TUN, GEO databases and other required parameters, respects user customizations
+- **Proxy Groups**: Switch proxy nodes directly from menu, with latency testing support
+- **Keyboard Shortcuts**: `⌘S` System Proxy | `⌘E` Enhanced Mode | `⌘D` Control Center | `⌥G/R/D` Global/Rule/Direct, etc.
+- **Config Pre-Check**: Auto-validation before switching or importing configs, error popup with quick edit support
+- **Crash Detection**: Auto-identifies kernel crash causes (Smart strategy, TUN permissions, etc.), provides solutions
+- **Customizable UI**: Menu items visibility configurable, streamline interface as needed
+- **App Updates**: Auto-detect new versions, one-click download and install with real-time progress
+- **Launch at Login**: Supports auto-start on macOS 11.5+
+- **Multi-Language**: Bilingual UI (English/Chinese), auto-follows system language
+- **Probe Kitty**: Brand new app icon, adaptive to light/dark mode
 
 ## Download
 
