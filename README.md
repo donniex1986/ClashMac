@@ -9,7 +9,7 @@
   <img src="assets/Logo-Default.png" alt="ClashMac Logo" width="300" style="filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.15));">
 </p>
 <h1 align="center">ClashMac</h1>
-<h3 align="center" style="margin-top: 0; margin-bottom: 10px;">Powerful & Elegant Native macOS Clash Client</h3>
+<h3 align="center" style="margin-top: 0; margin-bottom: 10px;">Native Proxy Experience Built for macOS</h3>
 <p align="center">
   🌐 <a href="https://clashmac.app"><strong>Official Website: clashmac.app</strong></a>
 </p>
@@ -43,9 +43,9 @@
   </tr>
 </table>
 
-## Features
+## Core Experience
 
-- **Native Development**: Built with SwiftUI, deeply integrated with macOS
+- **Native Built**: SwiftUI + macOS native APIs, deeply integrated with the system
 - **Dual Proxy Modes**: System Proxy + TUN Enhanced, complete traffic coverage
 - **Standalone Dashboard**: Native Dashboard app with Proxies/Rules/Connections/Logs at a glance
 - **Connection Topology**: Native traffic topology visualization, see where your data comes from and goes
@@ -162,5 +162,5 @@ The full list of licenses is available at:
 ---
 
 <p align="center">
-  Made with ❤️ for macOS
+  Crafted with ❤️ for macOS
 </p>

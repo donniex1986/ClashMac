@@ -9,7 +9,7 @@
   <img src="assets/Logo-Default.png" alt="ClashMac Logo" width="300" style="filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.15));">
 </p>
 <h1 align="center">ClashMac</h1>
-<h3 align="center" style="margin-top: 0; margin-bottom: 10px;">强大优雅的 macOS Clash 原生客户端</h3>
+<h3 align="center" style="margin-top: 0; margin-bottom: 10px;">为 macOS 打造的原生代理体验</h3>
 <p align="center">
   🌐 <a href="https://clashmac.app"><strong>官方网站：clashmac.app</strong></a>
 </p>
@@ -44,9 +44,9 @@
   </tr>
 </table>
 
-## 特色功能
+## 核心体验
 
-- **原生开发**：SwiftUI 构建，与 macOS 深度集成
+- **原生构建**：SwiftUI + macOS 原生 API，与系统深度集成
 - **双模代理**：系统代理 + TUN 增强，全局接管无死角
 - **独立面板**：原生 Dashboard，代理/规则/连接/日志一目了然
 - **连接拓扑图**：自研全原生流量拓扑图，一眼看清数据从哪来、走哪去
@@ -163,5 +163,5 @@ ClashMac 是一个专有的闭源应用程序。
 ---
 
 <p align="center">
-  Made with ❤️ for macOS
+  为 macOS 用心打造 ❤️
 </p>
