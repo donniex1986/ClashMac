@@ -29,11 +29,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://clashmac.app">
-    <img src="assets/website.png" alt="ClashMac 官网" width="800">
-  </a>
-</p>
 
 ## 预览
 <table>
